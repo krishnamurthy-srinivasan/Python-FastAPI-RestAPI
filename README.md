@@ -8,10 +8,8 @@ Covers all basic to intermediate level interview questions for Python, OOP, Pand
 - **Lambda functions**  
 - **Decorators**  
 - **Generators**  
-- Multi-Threading, Multi-Processing - [YouTube Video](https://www.youtube.com/watch?v=PJ4t2U15ACo&list=PLeo1K3hjS3uub3PRhdoCTY8BxMKSW7RjN)
+- **Multi-Threading, Multi-Processing** - [YouTube Video](https://www.youtube.com/watch?v=PJ4t2U15ACo&list=PLeo1K3hjS3uub3PRhdoCTY8BxMKSW7RjN)
 
-** - Implement  
-* - Theoretical
 
 ### Additional Topics:
 - Handling files in Python
@@ -109,3 +107,5 @@ For a fast learning/revision setup:
 ------
 Rarely asked in interviews, but you may be asked if you’ve written unit tests and which package you used. Basics are enough.  
 [Pytest Basics - YouTube](https://youtu.be/jM-zWp8dNQA?si=f_Bl_T4ftaLyXKmY)
+
+### I've compiled the information based on my interview experiences so far. However, new topics and questions can always arise. Feel free to contribute any additional insights or updates 🤗.
